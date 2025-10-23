@@ -1,13 +1,8 @@
-# Top-Chef
-A beautiful and responsive sign-up form for a food recipe sharing community, built as part of The Odin Project curriculum.
-![Top-Chef Sign-up Form](./output.png)
-# Live Demo 🔗
-
 # Top-Chef Signup Form
 
 A clean, responsive signup form for Top-Chef - an imaginary recipe sharing community.
 
-![Form Preview](./imgs/design-preview.png)
+![Form Preview](./imgs/design_preview.png)
 
 ## Live Demo
 https://ah0m0ed.github.io/top_chef/
